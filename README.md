@@ -16,7 +16,6 @@ A simple command-line Bus Reservation System built using Java, JDBC, and MySQL.
   - Register
   - Exit
 - Contributors
-- License
 
 ## Features
 
